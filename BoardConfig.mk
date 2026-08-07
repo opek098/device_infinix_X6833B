@@ -171,3 +171,8 @@ TARGET_RECOVERY_DEVICE_MODULES := libinit_Infinix-X6833B
 
 # Maintainer (optional)
 TW_MAINTAINER := "Opek フリナ"
+
+# Crypto & Keymaster Configuration
+TW_FORCE_KEYMASTER_VER := true
+OF_DEFAULT_KEYMASTER_VERSION := 4.1
+
